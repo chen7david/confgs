@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chen7david/confgs/issues"
   },
-  "homepage": "https://github.com/chen7david/confgs#readme"
+  "homepage": "https://github.com/chen7david/confgs#readme",
+  "dependencies": {
+    "js-yaml": "^3.13.1"
+  }
 }
